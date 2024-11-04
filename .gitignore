@@ -1,0 +1,23 @@
+.idea
+
+.ruff_cache
+.pytest_cache
+.mypy_cache
+
+# Mac specific settings
+DS_Store
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# chat
+.files/
+
+# pyenv local python version
+.python-version
+
+# python packages files
+*.whl
+*.tar.gz
